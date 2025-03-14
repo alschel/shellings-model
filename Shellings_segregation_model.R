@@ -249,7 +249,7 @@ gganimate::animate(test_50_df_anim,
                    renderer = gifski_renderer())
 
 # Save
-anim_save(animation = last_animation(), filename = "shelings_model.gif")
+anim_save(animation = last_animation(), filename = "shellings_model.gif")
 
 # ==========
 # 3. Metrics
